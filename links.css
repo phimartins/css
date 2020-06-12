@@ -1,0 +1,25 @@
+.links {   
+    text-decoration: none; /*remove todos os efeitos de texto*/
+    color: black;
+    cursor: crosshair; /*muda o cursor quando o mouse estiver em cima do link */
+    /*background-color: #f70606;*/
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+/* alterar a cor do link após ele já ter sido clicado 
+.links:visited{
+    color: green;
+}
+*/
+
+.links:hover {
+    background: #f70606; /* muda a cor de fundo quando o mouse está em cima do link */
+}
+
+.links:active{
+    background-color: blue; /* muda a cor de fundo quando o link está sendo pressionado */
+}
