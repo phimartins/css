@@ -2,9 +2,11 @@
 
 ## Itens estudados
 
-*Estilo de links
-*Listas
-*Box Model
+*Estilo de links;
+
+*Listas;
+
+*Box Model.
 
 ### Como reproduzir os estudos:
 
